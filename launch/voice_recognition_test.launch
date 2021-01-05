@@ -1,0 +1,3 @@
+<launch>
+  <node name="voice_recognition_test" pkg="voice_recognition_test_pkg" type="voice_recognition_test.py" output="screen"/>
+</launch>
